@@ -21,13 +21,13 @@ Assembling the board.
 ![](img/6.jpg)
 ![](img/9.jpg)
 
-1. Reroute the gound pin. Solder to the bottom of the ground pin you have just disconnected. Use a small length of wire to connect it to the top right Via. As shown.
+1. Reroute the gound pin. Solder to the bottom of the ground pin you have just disconnected. Use a small length of wire to connect it to the top right via, as shown.
 
 ![](img/7.jpg)
 ![](img/8.jpg)
 
 1. Solder on 2x20 way header.
-1. Fit energenie module in direction shown below.
+1. Fit Energenie module in direction shown below.
 
 ![](img/11.jpg)
 
