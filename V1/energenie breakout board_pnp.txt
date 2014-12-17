@@ -1,0 +1,150 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=energenie breakout board
+*Date=11:04:07
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;19.462;-18.111;0;Bottom;Via12
+2;;;10.8737;-19.6973;0;Bottom;IMG2
+3;;THT;15.9631;-42.2093;0;Bottom;J1
+4;;;43.8943;-43.854;0;Bottom;TXT2
+5;;;26.0667;-4.17505;0;Bottom;TXT1
+6;;;42.2403;-22.9426;0;Bottom;Copper Fill81
+7;;;32.9946;-25.1015;0;Bottom;Copper Fill77
+8;;;16.7386;-27.2098;0;Bottom;Copper Fill28
+9;;;53.4986;-41.0521;0;Bottom;TXT2
+10;;;44.2518;-36.3282;0;Bottom;TXT2
+11;;;3.6322;-27.3368;0;Bottom;Copper Fill29
+12;;;3.6322;-40.0368;0;Bottom;Copper Fill14
+13;;;10.7696;-34.7282;0;Bottom;Via15
+14;;;3.6322;-55.2767;0;Bottom;Copper Fill54
+15;;;47.5997;-28.2892;0;Bottom;Copper Fill49
+16;;;3.6322;-14.6368;0;Bottom;Copper Fill35
+17;;;32.1818;-47.3519;0;Bottom;Copper Fill9
+18;;;3.6322;-37.4967;0;Bottom;Copper Fill16
+19;;;53.6538;-24.6126;0;Bottom;TXT2
+20;;;19.7104;-57.4866;0;Bottom;Via13
+21;;;3.6322;-19.7168;0;Bottom;Copper Fill85
+22;;;9.1694;-31.3246;0;Bottom;Copper Fill20
+23;;;3.6322;-14.6368;0;Bottom;Copper Fill90
+24;;;26.6192;-23.7554;0;Bottom;Via6
+25;;;28.2448;-32.5184;0;Bottom;Copper Fill88
+26;;;28.5107;-42.4083;-90;Bottom;Raspberry Pi1
+27;;;4.8641;-57.4866;0;Bottom;Copper Fill40
+28;;;6.6294;-52.4828;0;Bottom;Copper Fill4
+29;;;12.3952;-46.1074;0;Bottom;Via10
+30;;;53.7244;-20.2382;0;Bottom;TXT2
+31;;;5.7404;-38.8049;0;Bottom;Copper Fill44
+32;;;51.7653;-32.4422;0;Bottom;Copper Fill69
+33;;;34.7726;-32.0612;0;Bottom;Copper Fill66
+34;;;10.9982;-27.5908;0;Bottom;Copper Fill27
+35;;;3.6322;-29.8767;0;Bottom;Copper Fill76
+36;;;3.6322;-45.1168;0;Bottom;Copper Fill59
+37;;;3.0988;-4.83235;0;Bottom;Copper Fill38
+38;;;6.4516;-16.3386;0;Bottom;Copper Fill31
+39;;;46.9647;-36.3157;0;Bottom;Copper Fill51
+40;;;11.303;-36.0744;0;Bottom;Copper Fill17
+41;;;3.6322;-27.3368;0;Bottom;Copper Fill78
+42;;;1.397;-48.9649;0;Bottom;Copper Fill41
+43;;;53.6804;-48.7737;0;Bottom;TXT2
+44;;;22.4837;-17.0007;0;Bottom;Via2
+45;;;40.1094;-41.5129;0;Bottom;Via1
+46;;;3.6322;-42.5767;0;Bottom;Copper Fill11
+47;;;46.5837;-30.9182;0;Bottom;Copper Fill24
+48;;;3.6322;-32.4168;0;Bottom;Copper Fill23
+49;;;15.9766;-27.0066;0;Bottom;Copper Fill79
+50;;;46.9647;-41.3957;0;Bottom;Copper Fill52
+51;;;15.5448;-24.3904;0;Bottom;Copper Fill80
+52;;;11.5824;-56.2674;0;Bottom;Via3
+53;;;3.6322;-55.2767;0;Bottom;Copper Fill2
+54;;;35.0012;-52.7113;0;Bottom;Copper Fill1
+55;;;53.6538;-16.6398;0;Bottom;TXT2
+56;;;3.6322;-9.55675;0;Bottom;Copper Fill92
+57;;;53.4986;-38.7378;0;Bottom;TXT2
+58;;;3.6322;-40.0368;0;Bottom;Copper Fill62
+59;;;3.6322;-24.7968;0;Bottom;Copper Fill82
+60;;;17.9578;-52.4193;0;Bottom;Copper Fill53
+61;;;3.6322;-34.9567;0;Bottom;Copper Fill19
+62;;;53.8074;-31.5976;0;Bottom;TXT2
+63;;;8.6614;-37.192;0;Bottom;Copper Fill13
+64;;;3.6322;-12.0968;0;Bottom;Copper Fill91
+65;;;14.6304;-35.8458;0;Bottom;Copper Fill18
+66;;;8.6868;-27.7178;0;Bottom;Copper Fill75
+67;;;26.1366;-52.0256;0;Bottom;Copper Fill6
+68;;;3.6322;-47.6568;0;Bottom;Copper Fill57
+69;;;3.6322;-17.1768;0;Bottom;Copper Fill89
+70;;THT;49.0678;-28.3521;0;Bottom;J2
+71;;;28.2448;-32.5184;0;Bottom;Copper Fill39
+72;;;26.8193;-37.4774;0;Bottom;Via16
+73;;;29.077;-7.79709;0;Bottom;TXT1
+74;;;3.6322;-34.9567;0;Bottom;Copper Fill68
+75;;;11.5189;-56.8262;0;Bottom;Copper Fill45
+76;;;28.6512;-23.7554;0;Bottom;Via14
+77;;;3.6322;-22.2568;0;Bottom;Copper Fill32
+78;;;8.0264;-37.2428;0;Bottom;Copper Fill63
+79;;;3.6322;-29.8767;0;Bottom;Copper Fill26
+80;;;4.67359;-28.6322;0;Bottom;Via7
+81;;;3.6322;-42.5767;0;Bottom;Copper Fill60
+82;;;3.6322;-19.7168;0;Bottom;Copper Fill33
+83;;;3.6322;-50.1968;0;Bottom;Copper Fill56
+84;;;53.5832;-28.0698;0;Bottom;TXT2
+85;;;1.397;-31.1849;0;Bottom;Copper Fill43
+86;;;50.0381;-39.6049;0;Bottom;Copper Fill64
+87;;;35.052;-29.699;0;Bottom;Copper Fill72
+88;;THT;49.0678;-16.9221;0;Bottom;J3
+89;;;50.8001;-42.0942;0;Bottom;Copper Fill12
+90;;;3.6322;-17.1768;0;Bottom;Copper Fill34
+91;;;53.4416;-49.3586;0;Bottom;Via5
+92;;;3.6322;-45.1168;0;Bottom;Copper Fill10
+93;;;1.397;-43.8849;0;Bottom;Copper Fill42
+94;;;7.92479;-53.0162;0;Bottom;Via11
+95;;;3.6322;-37.4967;0;Bottom;Copper Fill65
+96;;;49.5809;-43.669;0;Bottom;Copper Fill61
+97;;;53.4046;-36.1792;0;Bottom;TXT2
+98;;;53.6115;-46.3014;0;Bottom;TXT2
+99;;;44.1288;-40.8641;0;Bottom;TXT2
+100;;;43.9067;-46.4504;0;Bottom;TXT2
+101;;;3.6322;-12.0968;0;Bottom;Copper Fill36
+102;;;48.6411;-33.4836;0;Bottom;Copper Fill70
+103;;;53.6115;-43.7049;0;Bottom;TXT2
+104;;;3.6322;-52.7367;0;Bottom;Copper Fill55
+105;;;7.4676;-19.2342;0;Bottom;Copper Fill84
+106;;;3.6322;-50.1968;0;Bottom;Copper Fill5
+107;;;47.5997;-16.8593;0;Bottom;Copper Fill47
+108;;THT;49.0678;-42.6044;180;Bottom;J4
+109;;;1.7526;-4.65455;0;Bottom;Copper Fill93
+110;;;8.6868;-32.3152;0;Bottom;Copper Fill74
+111;;;43.9756;-48.9227;0;Bottom;TXT2
+112;;;3.6322;-22.2568;0;Bottom;Copper Fill83
+113;;;17.272;-30.7912;0;Bottom;Copper Fill25
+114;;;33.9688;-37.2891;0;Bottom;Via17
+115;;;49.4031;-16.8593;0;Bottom;Copper Fill48
+116;;;3.6322;-32.4168;0;Bottom;Copper Fill73
+117;;;52.1209;-46.2343;0;Bottom;Copper Fill58
+118;;;14.9352;-38.4112;0;Bottom;Copper Fill15
+119;;;3.6322;-52.7367;0;Bottom;Copper Fill3
+120;;;11.5189;-55.8356;0;Bottom;Copper Fill46
+121;;;8.4074;-17.6848;0;Bottom;Copper Fill86
+122;;;3.6322;-47.6568;0;Bottom;Copper Fill7
+123;;;44.1288;-38.6063;0;Bottom;TXT2
+124;;;14.6304;-33.3058;0;Bottom;Copper Fill71
+125;;;12.4714;-35.3124;0;Bottom;Copper Fill67
+126;;;3.6322;-9.55675;0;Bottom;Copper Fill37
+127;;;46.9647;-38.8557;0;Bottom;Copper Fill50
+128;;;12.0904;-15.348;0;Bottom;Copper Fill87
+129;;;3.6322;-24.7968;0;Bottom;Copper Fill30
+130;;;17.272;-33.3312;0;Bottom;Copper Fill22
+131;;;53.6538;-13.1121;0;Bottom;TXT2
+132;;;12.3952;-44.0754;0;Bottom;Via9
+133;;;10.8204;-30.0292;0;Bottom;Copper Fill21
+134;;;10.7696;-37.9794;0;Bottom;Via8
+135;;;15.9512;-47.4028;0;Bottom;Copper Fill8
