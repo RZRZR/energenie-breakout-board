@@ -7,7 +7,8 @@ Errors:
 
 Assembling the board.
 
-1. Disconnect ground thread at the cross roads to prevent shorting. You can do this with a scalpel. Make sure you cut in parallel with the silkscreen line as shown.
+
+1. **DO THIS BEFORE SOLDERING ON THE HEADERS**. Disconnect ground thread at the cross roads to prevent shorting. You can do this with a scalpel. Make sure you cut in parallel with the silkscreen line as shown.
 
 ![](img/1.jpg)
 
